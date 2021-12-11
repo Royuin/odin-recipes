@@ -1,5 +1,18 @@
 h1,h2,h3 {
     color: rgb(240, 204, 0);
     background-color: darkslategray;
+    padding: 5px;
+    border: 3px solid rgb(240, 204, 0);
 }
 
+body {
+    background-color: rgb(43, 43, 43)
+}
+
+* {
+    color:rgb(240, 204, 0);
+}
+
+a {
+    color: rgb(0, 167, 167);
+}
