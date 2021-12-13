@@ -18,7 +18,7 @@ a {
 }
 
 .box {
-    height: 75px;
-    width: 105px;
+    height: 85px;
+    width: 115px;
     box-sizing: border-box;
 }
