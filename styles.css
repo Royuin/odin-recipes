@@ -16,3 +16,8 @@ body {
 a {
     color: rgb(0, 255, 255);
 }
+
+.box {
+    height: 75px;
+    width: 105px;
+}
