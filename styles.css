@@ -20,4 +20,5 @@ a {
 .box {
     height: 75px;
     width: 105px;
+    box-sizing: border-box;
 }
