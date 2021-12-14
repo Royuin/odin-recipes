@@ -1,3 +1,10 @@
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
 h1,h2,h3 {
     color: rgb(240, 204, 0);
     background-color: darkslategray;
