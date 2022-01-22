@@ -3,6 +3,7 @@ html {
 }
 *, *::before, *::after {
     box-sizing: inherit;
+    text-line
 }
 
 h1,h2,h3 {
@@ -10,6 +11,10 @@ h1,h2,h3 {
     background-color: darkslategray;
     padding: 5px;
     border: 2px solid rgb(240, 204, 0);
+}
+
+h1 {
+    font-size: 35px;
 }
 
 body {
@@ -20,12 +25,27 @@ body {
     color:rgb(240, 204, 0);
 }
 
-a {
+
+.box {
+    height: 90px;
+    width: 125px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+p {
+    line-height: 1.5;
+}
+
+a:link {
+    text-decoration: none;
     color: rgb(0, 255, 255);
 }
 
-.box {
-    height: 85px;
-    width: 115px;
-    box-sizing: border-box;
+a:visited {
+    color:rgb(0, 255, 255);
+}
+
+a:hover {
+
 }
