@@ -1,59 +1,63 @@
 html {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
-*, *::before, *::after {
-    box-sizing: inherit;
-    text-line
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
 }
 
-h1,h2,h3 {
-    color: rgb(240, 204, 0);
-    background-color: darkslategray;
-    padding: 5px;
-    border: 2px solid rgb(240, 204, 0);
+h1,
+h2,
+h3 {
+  color: rgb(240, 204, 0);
+  background-color: darkslategray;
+  padding: 5px;
+  border: 2px solid rgb(240, 204, 0);
 }
 
 h1 {
-    font-size: 35px;
+  font-size: 35px;
 }
 
 body {
-    background-color: rgb(43, 43, 43)
+  background-color: rgb(43, 43, 43);
+  margin-left: ;
 }
 
 * {
-    color:rgb(240, 204, 0);
+  color: rgb(240, 204, 0);
 }
 
-
 .box {
-    height: 90px;
-    width: 125px;
-    box-sizing: border-box;
-    text-align: center;
+  height: 90px;
+  width: 125px;
+  box-sizing: border-box;
+  text-align: center;
 }
 
 p {
-    line-height: 1.5;
+  line-height: 1.5;
 }
 
 a:link {
-    text-decoration: none;
-    color: rgb(0, 255, 255);
+  text-decoration: none;
+  color: rgb(0, 255, 255);
 }
 
 a:visited {
-    color:rgb(0, 255, 255);
+  color: rgb(0, 255, 255);
 }
 
 a:hover {
-    color:rgb(240, 204, 0);
-    font-weight: bold;
-    text-decoration: underline dotted;
+  color: rgb(240, 204, 0);
+  font-weight: bold;
+  text-decoration: underline dotted;
 }
 
 a:active {
-    background-color: darkslategrey;
-
+  background-color: darkslategrey;
 }
 /* LVHA */
