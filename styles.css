@@ -24,7 +24,6 @@ h1 {
 
 body {
   background-color: rgb(43, 43, 43);
-  margin-left: ;
 }
 
 * {
@@ -41,6 +40,8 @@ body {
 p {
   line-height: 1.5;
 }
+
+/* LINKS */
 
 a:link {
   text-decoration: none;
