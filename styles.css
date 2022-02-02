@@ -9,6 +9,10 @@ html {
   padding: 0;
 }
 
+.title {
+  margin-bottom: 30px;
+}
+
 h1,
 h2,
 h3 {
