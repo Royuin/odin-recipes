@@ -74,3 +74,8 @@ a:active {
 /* LVHA */
 
 /* LISTS */
+
+li {
+  margin-left: 25px;
+  line-height: 1.5;
+}
