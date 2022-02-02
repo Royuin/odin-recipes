@@ -24,8 +24,8 @@ h1 {
 
 body {
   background-color: rgb(43, 43, 43);
+  max-width: 825px;
   margin: 0 auto;
-  width: 825px;
 }
 
 * {
